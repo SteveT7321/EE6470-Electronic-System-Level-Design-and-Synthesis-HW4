@@ -3,7 +3,7 @@
 ```
 $ cd riscv-vp
 $ cd sw
-$ cd basic-gaussian
+$ cd basic-mm
 $ make
 $ make sim
 ```
